@@ -58,31 +58,6 @@ Stay tuned for our upcoming events and activities. Join our Discord server for e
   </a>
 </p>
 
----
-
-## 📊 Project Stats
-
-<p align="center">
-  <a href="https://github.com/ISF-DDU/isf-profile/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/ISF-DDU/ISF-DDU?style=for-the-badge&color=success" alt="GitHub issues" />
-  </a>
-  <a href="https://github.com/ISF-DDU/isf-profile/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/ISF-DDU/ISF-DDU?style=for-the-badge&color=blue" alt="GitHub forks" />
-  </a>
-  <a href="https://github.com/ISF-DDU/isf-profile/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/ISF-DDU/ISF-DDU?style=for-the-badge&color=orange" alt="GitHub pull requests" />
-  </a>
-  <a href="https://github.com/ISF-DDU/isf-profile/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/ISF-DDU/ISF-DDU?style=for-the-badge&color=yellow" alt="GitHub Repo stars" />
-  </a>
-  <a href="https://github.com/ISF-DDU/isf-profile/graphs/contributors" target="_blank">
-    <img src="https://img.shields.io/github/contributors/ISF-DDU/ISF-DDU?style=for-the-badge&color=brightgreen" alt="GitHub contributors" />
-  </a>
-</p>
-
-
----
-
 ## 🔗 Connect with Us
 
 Stay updated with ISF and connect with us on social media:
