@@ -53,7 +53,7 @@ Joining ISF is easy and open to all students. Here's how you can get involved:
 Stay tuned for our upcoming events and activities. Join our Discord server for event announcements and discussions.
 
 <p align="center">
-  <a href="https://discord.gg/your-discord-link">
+  <a href="https://discord.gg/jU89d2Ex">
     <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -63,11 +63,11 @@ Stay tuned for our upcoming events and activities. Join our Discord server for e
 ## 📊 Project Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/your-github-username/isf-profile?style=for-the-badge&color=success" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/forks/your-github-username/isf-profile?style=for-the-badge&color=blue" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues-pr/your-github-username/isf-profile?style=for-the-badge&color=orange" alt="GitHub pull requests" />
-  <img src="https://img.shields.io/github/stars/your-github-username/isf-profile?style=for-the-badge&color=yellow" alt="GitHub Repo stars" />
-  <img src="https://img.shields.io/github/contributors/your-github-username/isf-profile?style=for-the-badge&color=brightgreen" alt="GitHub contributors" />
+  <img src="https://img.shields.io/github/issues/ISF-DDU/isf-profile?style=for-the-badge&color=success" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/forks/ISF-DDU/isf-profile?style=for-the-badge&color=blue" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues-pr/ISF-DDU/isf-profile?style=for-the-badge&color=orange" alt="GitHub pull requests" />
+  <img src="https://img.shields.io/github/stars/ISF-DDU/isf-profile?style=for-the-badge&color=yellow" alt="GitHub Repo stars" />
+  <img src="https://img.shields.io/github/contributors/ISF-DDU/isf-profile?style=for-the-badge&color=brightgreen" alt="GitHub contributors" />
 </p>
 
 ---
@@ -77,14 +77,14 @@ Stay tuned for our upcoming events and activities. Join our Discord server for e
 Stay updated with ISF and connect with us on social media:
 
 <p align="center">
-  <a href="https://discord.gg/your-discord-link">
-    <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="https://twitter.com/your-college-isf">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/your-college-isf">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/company/tech-tribe-the-community/">
+    <img src="https://img.shields.io/badge/Connect%20with%20Us%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
