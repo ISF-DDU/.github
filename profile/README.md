@@ -53,7 +53,7 @@ Joining ISF is easy and open to all students. Here's how you can get involved:
 Stay tuned for our upcoming events and activities. Join our Discord server for event announcements and discussions.
 
 <p align="center">
-  <a href="https://discord.gg/jU89d2Ex">
+  <a href="https://discord.gg/jU89d2Ex" target="_blank">
     <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -77,13 +77,13 @@ Stay tuned for our upcoming events and activities. Join our Discord server for e
 Stay updated with ISF and connect with us on social media:
 
 <p align="center">
-  <a href="https://twitter.com/your-college-isf">
+  <a href="https://twitter.com/your-college-isf" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/your-college-isf">
+  <a href="https://www.instagram.com/your-college-isf" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Us%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/company/tech-tribe-the-community/">
+  <a href="https://www.linkedin.com/in/your-college-isf" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20with%20Us%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
