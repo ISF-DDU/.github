@@ -7,7 +7,7 @@
 
 ## 🌟 Welcome to ISF
 
-Welcome to the Innovation and Skill Development Forum (ISF) of [Your College Name]. ISF is a student-driven initiative aimed at fostering innovation, creativity, and skill development among students. We provide a platform for students to explore and develop their technical and entrepreneurial skills.
+Welcome to the IETE Student's Forum (ISF) DDU. ISF is a student-driven initiative aimed at fostering innovation, creativity, and skill development among students. We provide a platform for students to explore and develop their technical and entrepreneurial skills.
 
 ### Our Mission
 
@@ -25,12 +25,9 @@ Our mission is to:
 ISF offers a wide range of activities and opportunities for students, including:
 
 - **🛠️ Workshops:** Technical workshops, coding bootcamps, and skill development sessions.
-- **💡 Hackathons:** Engage in hackathons and coding challenges.
 - **🎙️ Guest Lectures:** Interactive sessions with industry experts.
 - **📚 Projects:** Collaborative projects to apply your skills.
-- **🏆 Competitions:** Participate in tech and innovation competitions.
 - **🌐 Networking:** Connect with like-minded students and professionals.
-- **🚀 Entrepreneurship:** Explore startup ideas and entrepreneurship.
 
 ---
 
@@ -38,7 +35,7 @@ ISF offers a wide range of activities and opportunities for students, including:
 
 Joining ISF is easy and open to all students. Here's how you can get involved:
 
-1. **📥 Join Our GitHub Organization:** Request to join our GitHub organization to access project repositories and contribute to our initiatives.
+1. **📥 Join Our GitHub Organization:** By contributing to our repos.
 
 2. **📅 Attend Events:** Stay updated on our upcoming events and participate actively.
 
