@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://o.remove.bg/downloads/9db858b4-9dfd-4e0b-b5b7-a1ed173f9022/download-removebg-preview.png" alt="ISF Logo" width="200" height="200" />
   <h1 style="font-weight: bold; font-size: 36px; color: #4e64f8;">🚀 Innovation and Skill Development Forum (ISF)</h1>
 </div>
 
